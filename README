@@ -4,7 +4,7 @@ WebServerDoJe
 - O WebServer apresenta a temperatura ambiente lida de um sensor de temperatura e apresenta a opção de comandar a ativação de um led.
 
 05/13/2011
-- This sketch is an example of Arduino based WebServer conected to an Wiznet W5100 Ethernet Shield 
-- The WebServer displays the ambient temperature captured from a analog temperature sensor and allows to activate a led from the web page.
+- This sketch is an example of an Arduino based WebServer conected to a Wiznet W5100 Ethernet Shield 
+- The WebServer displays the ambient temperature captured from an analog temperature sensor and allows to activate a led from the web page.
 
 
