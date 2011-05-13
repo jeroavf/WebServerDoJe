@@ -1,0 +1,10 @@
+WebServerDoJe
+13/05/2011
+- Este sketch exemplifica a construção de um WebServer Arduino associado a um Shield Ethernet baseado no WizNet W5100
+- O WebServer apresenta a temperatura ambiente lida de um sensor de temperatura e apresenta a opção de comandar a ativação de um led.
+
+05/13/2011
+- This sketch is an example of Arduino based WebServer conected to an Wiznet W5100 Ethernet Shield 
+- The WebServer displays the ambient temperature captured from a analog temperature sensor and allows to activate a led from the web page.
+
+
